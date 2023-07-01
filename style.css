@@ -7,7 +7,7 @@ body {
 
 img {
     border-radius: 10px;
-    width: 7cm;
+    width: 8cm;
     display: block;
     margin-top: 15px;
     margin-left: auto;
@@ -16,20 +16,20 @@ img {
 }
 
 p {
-    font-size: 13px;
+    font-size: 17px;
     color: hsl(220, 15%, 55%);
 }
 
 h1 {
     color: hsl(218, 44%, 22%);
-    font-size: 20px;
+    font-size: 23px;
 }
 
 .qr {
     background-color: white;
     border-radius: 15px;
-    height: 450px;
-    width: 300px;
+    height: 500px;
+    width: 330px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -41,6 +41,6 @@ h1 {
     text-align: center;
     height: 150px;
     margin-bottom: 20px;
-    width: 6cm;
+    width: 7.5cm;
     margin-left: 22px;
 }
